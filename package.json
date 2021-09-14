@@ -17,6 +17,6 @@
     "mixin-deep": "^2.0.1",
     "mocha": "^7.1.1",
     "nodemon": "^2.0.3",
-    "set-value": "^3.0.2"
+    "set-value": "^4.0.1"
   }
 }
